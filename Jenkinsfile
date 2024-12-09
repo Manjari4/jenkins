@@ -11,5 +11,4 @@ pipeline{
        sh "cat j.txt"
       }
     }
-  }
-}
+  
